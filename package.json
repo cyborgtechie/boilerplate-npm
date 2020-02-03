@@ -2,6 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Maria Guerrero",
 	"description": "learning how to use json npm",
+	  "keywords": [
+    		"freecodecamp",
+    		"json",
+    		"npm"
+  	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
